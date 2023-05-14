@@ -20,6 +20,7 @@ Iron give a fork!
 | POST | /registro | Sign up from handler |
 | GET | /iniciar-sesion | Log in from render |
 | POST | /iniciar-sesion | Log in from handler |
+| POST | /cerrar-sesion | Log out from handler |
 
 
 
