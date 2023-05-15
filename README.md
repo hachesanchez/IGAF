@@ -7,7 +7,7 @@ Iron give a fork!
 | HTTM Method   |  URI path     |  Description  |  JSON        |
 | ------------- | ------------- | ------------- | ------------- |
 | GET | / | index page |
-| GET | /recipes | Recipes list |
+| GET | `/recipes` | Recipes list |
 | GET | /recipes/{id}| Recipe details |
 | GET | /create| New recipe from render |
 | POST | /create| New recipe from handler |
